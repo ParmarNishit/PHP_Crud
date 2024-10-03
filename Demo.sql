@@ -1,3 +1,5 @@
+// first create database
+
 CREATE DATABASE crud;
 
 CREATE TABLE users (
